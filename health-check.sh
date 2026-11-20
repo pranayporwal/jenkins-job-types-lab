@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "================================"
-echo "Starting System Health Check"
+echo "Starting System Health Check - Version 2"
 echo "================================"
 
 echo "Checking required project files..."
